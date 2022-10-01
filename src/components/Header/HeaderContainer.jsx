@@ -3,7 +3,7 @@ import React from 'react';
 import Header from './Header';
 
 const HeaderContainer = () => {
-    
+    // it's just for test
     const [isActive, setIsActive] = React.useState(false);
     const show = () => {
         if (window.pageYOffset >= 50) {
