@@ -23,6 +23,7 @@ function App() {
 <Video/>
 <Footer/>
       </Wrapper>
+      test
     </Container>
 
   );
